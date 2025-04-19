@@ -1,1 +1,1 @@
-# adding new locla repo into github
+# adding new local repo into github
